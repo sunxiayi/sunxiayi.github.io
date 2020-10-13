@@ -3,9 +3,9 @@ layout: page
 type: about
 ---
 
-I work in the tech industry. This blog is used primarily for myself to sort out thoughts, and serves as a learning journal. Massively interested in learning more about C++ and database at the moment.
+I work in the tech industry. This blog is used primarily for myself to sort out thoughts, and serves as a learning journal, the main audience for those articles is myself. Massively interested in learning more about C++ and database at the moment.
 
-To put that aside, music and photography are life time passion. They record and create truth and beauty, which constitues an important part of my living philosophy.
+To put that aside, music and photography are life time passion. They record and create truth and beauty, which constitues an important part of my living philosophy. Please take a grain of salt while reading about them as I'm not a professional in those fields, just a self-educating amateur.
 
 Born and raised in China, have studied and worked in US since 2015. So this blog is bilingual.
 
