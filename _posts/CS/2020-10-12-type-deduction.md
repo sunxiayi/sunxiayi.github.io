@@ -156,16 +156,4 @@ decltype(auto) returnReferenceToObjectInContainer(Container& c, Index i) {
 }
 ```
 
-Why we might want to do that? Difference containers, such as `std::string`, `std::deque`, `std::vector`, may return elements by value of by reference. In the case a reference is returned, since `auto` uses the template type reduction in this case, it will be like:
-
-```c++
-template<typename T>
-void f(T& param);
-
-string s = "abc";
-char &rc = s[0];
-f(rc);  // since param is an lvalue reference, it needs to strip the reference-ness off, thus param is of type char.
-```
-
-But what we really want to return is a reference to `c[i]`. Return type `decltype(auto)` preserves this.
-
+Why we might want to do that? Difference containers, such as `std::string`, `std::deque`, `std::vector`, may return elements by value of by reference. In the case a reference is returned, since `auto` uses the template type reduction, if we do not use decltype, the return value will strip the reference off.
