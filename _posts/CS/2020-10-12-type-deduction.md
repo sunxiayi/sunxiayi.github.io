@@ -125,7 +125,7 @@ auto highPriority = features()[5];
 
 ### decltype
 
-It reminds me of `type()` in Python. At the end they do very similar things and in most cases do not give you surprises. One case it gives you surprise is when you pass a non-name lvalue(a named variable is the normal lvalue such as `a` in `int a = 0`), it will reports that type as `T&`.  For example,
+It reminds me of `type()` in Python. At the end they do very similar things and in most cases do not give you surprises. One case it gives you surprise is when you pass a lvalue more complicated than a name, it will reports that type as `T&`.  For example,
 
 ```c++
 // decltype((x)) is int& rather than int, and x is a local variable! boom!
