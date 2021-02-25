@@ -4,7 +4,6 @@ date: 2020-10-12
 categories: CS
 tags:
 - C++
-- books
 ---
 ## Type Deduction(templates, auto, decltype)
 

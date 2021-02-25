@@ -4,7 +4,6 @@ date: 2020-10-14
 categories: CS
 tags:
 - C++
-- books
 ---
 Many of the following are excerpts from *Scott Meyers - Effective Modern C++*
 
