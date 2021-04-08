@@ -76,5 +76,5 @@ Note that **in binary, when we subtract a number A from a number of all 1 bits, 
 
 ## References
 
-- [signed binary numbers](https://www.electronics-tutorials.ws/binary/signed-binary-numbers.html)
-- [two's complement](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html)
+- [Signed binary numbers](https://www.electronics-tutorials.ws/binary/signed-binary-numbers.html)
+- [Two's complement why it works](https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html)
