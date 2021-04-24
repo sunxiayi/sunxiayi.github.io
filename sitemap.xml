@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sunxiayi.github.io/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/categories/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/about/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/tags/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/cs/2021/03/30/two's-complement/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/category/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/cs/2021/02/25/lambda-in-c++/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/money/2021/02/22/%E5%87%A0%E5%B9%B4%E5%90%8E%E5%9B%9E%E5%9B%BD-%E7%BE%8E%E5%9B%BD%E9%80%80%E4%BC%91%E9%87%91%E8%B4%A6%E6%88%B7%E5%A6%82%E4%BD%95%E6%93%8D%E4%BD%9C/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/life/2020/12/10/%E4%BB%96%E7%9A%84%E4%B8%8B%E5%8D%8A%E7%94%9F/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/cs/2020/12/02/unicode/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/cs/2020/11/30/linux-file-permissions/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/cs/2020/11/08/smart-pointers/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/music/2020/11/01/%E9%9F%B3%E7%A8%8B%E5%8D%8A%E9%9F%B3%E6%95%B0-%E4%B8%89%E5%92%8C%E5%BC%A6-%E4%B8%83%E5%92%8C%E5%BC%A6-%E4%B9%9D%E5%92%8C%E5%BC%A6/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/music/2020/11/01/dawning/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/cs/2020/10/14/braced-initialization/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/page2/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/tag/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sunxiayi.github.io/cs/2020/10/12/type-deduction/</loc>
+  <lastmod>2021-04-08T12:18:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
