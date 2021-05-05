@@ -6,4 +6,12 @@ title: Side Projects Ideas
 - 做个小游戏
 - 自动扒歌软件
 - 网易云&qq音乐同步
-- 百度下载加速j
+- leetcode edge list visualizer
+- for loop typeahead etc...
+- background music website/app
+- google/alexa 
+- 饭圈主页
+- watch movies together in one website
+- interview.com
+- Youtube channel of leetcode: 
+    - Minimum Number of Refueling Stops
