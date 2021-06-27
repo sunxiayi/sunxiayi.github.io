@@ -11,7 +11,8 @@ title: Side Projects Ideas
 - background music website/app
 - google/alexa 
 - 饭圈主页
+- prioritab
 - watch movies together in one website
-- interview.com
+- free music database
 - Youtube channel of leetcode: 
     - Minimum Number of Refueling Stops
