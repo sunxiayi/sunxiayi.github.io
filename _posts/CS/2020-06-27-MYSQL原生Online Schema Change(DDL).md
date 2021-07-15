@@ -48,12 +48,12 @@ ALTER TABLE tbl_name WAIT N add column ...
 在alter table的时候可以指定algorithm方式，有default, inplace, copy, instant四种。
 
 - copy指的是在server层进行阻塞的拷贝新表操作，所有存储引擎都支持，操作时会创建临时表，执行全表拷贝和重建，过程中会写入redo log和大量的undo log。这不是一种online的算法。
-- inplace指的是在储存引擎层进行的操作，不需要redo log等，其中大部分是非阻塞的（即用上面提到的方式进行），也有阻塞性质的（如第一次添加FULLTEXT和SPQTIAL index的时候）。inplace算法分为重建表和非重建表两类方式，非重建表直接在原表上更新，重建表需要copy数据。
+- inplace指的是在储存引擎层进行的操作，不需要redo log等，其中大部分是非阻塞的（即用上面提到的方式进行），也有阻塞性质的（如第一次添加FULLTEXT和SPATIAL index的时候）。inplace算法分为重建表和非重建表两类方式，非重建表直接在原表上更新，重建表需要copy数据。
 - instant用于避免inplace算法在需要修改数据文件时异常低效的问题，所有涉及到表拷贝和重建的操作都会被禁止
 
 Online的DDL一定是用inplace/instant algorithm的。通过对小表DDL并检查rows affected的方式，可以知道table data有没有被copy。
 
-Lock可指定4中模式，NONE允许增删改查，SHARED允许查询不允许DML，DEFAULT会看情况使用NONE或者SHARED，EXCLUSIVE会阻塞增删改查。
+Lock可指定4种模式，NONE允许增删改查，SHARED允许查询不允许DML，DEFAULT会看情况使用NONE或者SHARED，EXCLUSIVE会阻塞增删改查。
 
 
 
