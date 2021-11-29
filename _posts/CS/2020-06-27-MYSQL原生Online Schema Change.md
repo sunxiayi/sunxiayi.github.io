@@ -1,11 +1,17 @@
 ---
-title: MYSQL原生Online Schema Change(DDL)
+title: MYSQL原生Online Schema Change
 date: 2021-06-27
 categories: CS
 tags:
 - mysql
 - database
 ---
+
+打算用三篇文章来介绍一下对于改变表结构的方案，分别是：
+- 简介mysql原生online schema change（本篇）
+- mysql以及其他db的instant DDL方案
+- 在my集群中实现online schema change的工具
+
 
 ### 元数据锁（MDL）
 
