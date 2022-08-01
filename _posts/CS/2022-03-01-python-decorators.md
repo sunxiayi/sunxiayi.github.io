@@ -300,3 +300,4 @@ full_name.fset is full_name_setter    # True
 4. [Python classmethod()](https://www.programiz.com/python-programming/methods/built-in/classmethod)
 5. [Python Properties](http://stackabuse.com/python-properties/)
 6. [Clear example]([https://stackoverflow.com/questions/308999/what-does-functools-wraps-do](https://stackoverflow.com/questions/308999/what-does-functools-wraps-do))
+7. [Pyhton Decorators Tutorial](https://www.scaler.com/topics/python/python-decorators/)
