@@ -1,5 +1,5 @@
 ---
-title: Mixing Audio: Concepts, Practices, and Tools笔记 Part I
+title: Mixing Audio(Concepts, Practices, and Tools)笔记 Part I
 date: 2023-04-29
 categories: music
 tags:
@@ -22,7 +22,7 @@ Fletcher-Munson曲线，每条曲线称为等响度曲线（phon curve），以2
 
 混音的时候，对于最近才做的一些改动可能会特别敏感，形成一些bias。这时候最好放空一段时间再重新听。
 
-![](/assets/images/music/mixing_sequence.heic)
+![](/assets/images/music/mixing_sequence.png)
 混音的步骤有技术性的（不涉及具体声响的，如整理文件、track layout、audio grouping等）和创造性的（涉及声响变化的如EQ, reverb, compressor等），前者做得好能使后者效率提升。
 
 混音的顺序可以是从一件、两件乐器到越来越多，可以从律动、和声、旋律进行，可以从重要性顺序入手，可以所有乐器一起混。
@@ -40,9 +40,9 @@ Fletcher-Munson曲线，每条曲线称为等响度曲线（phon curve），以2
 混音所影响的元素主要有：时间、频率、响度、声场（宽度和深度）。
 
 平衡：
-![](/assets/images/music/frequency_bands.heic)
-![](/assets/images/music/frequency_spectrum.heic)
+![](/assets/images/music/frequency_bands.png)
+![](/assets/images/music/frequency_spectrum.png)
 - 频率平衡。频率分为低[250Hz]中低[2kHz]中高[6kHz]高频（数字为频率分割点），要避免过高、过低的频率在不恰当的时候出现，其中中低频段是很多乐器的主要频段，把这个频段处理干净至关重要。要尽量把频段补齐，同时不要让几样乐器同时在一个频段打架。人耳对于一些频段的**短暂**缺失不是很敏感。
 - 响度平衡。响度可以由fader或者EQ、压缩器等来影响，调整不同乐器之间的相对响度、不同段落之间的相对响度。
-![](/assets/images/music/stereo.heic)
+![](/assets/images/music/stereo.png)
 - 声场平衡。影响要素有：位置（左/右/中间以及每个位置的响度和频率平衡），宽度（最左、最右决定），深度（深度的绝对值和稳定度），丰满度（I型、V型、W型混音都体现的某些位置的声场缺失），精确度（发声点/发声面）。对于非常突出的频段，建议放在偏中间的位置，或者在反向的位置加一个类似的频段来平衡。
