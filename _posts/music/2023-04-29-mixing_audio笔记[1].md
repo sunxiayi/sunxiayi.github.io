@@ -22,12 +22,12 @@ Fletcher-Munson曲线，每条曲线称为等响度曲线（phon curve），以2
 
 混音的时候，对于最近才做的一些改动可能会特别敏感，形成一些bias。这时候最好放空一段时间再重新听。
 
-![](/assets/images/music/mixing_sequence.png)
 混音的步骤有技术性的（不涉及具体声响的，如整理文件、track layout、audio grouping等）和创造性的（涉及声响变化的如EQ, reverb, compressor等），前者做得好能使后者效率提升。
 
 混音的顺序可以是从一件、两件乐器到越来越多，可以从律动、和声、旋律进行，可以从重要性顺序入手，可以所有乐器一起混。
 
-混音的DRY-WET APPROACH指的是先做fader, pan pots, processor，再做modulation, delay, reverb。
+![](/assets/images/music/mixing_sequence.png)
+混音的DRY-WET APPROACH指的是先做fader, pan pots, processor，再做modulation, delay, reverb这样的一个迭代发展的过程。
 
 混音的对象分为分轨混音和多轨（整体）混音。分轨混音完美的做法不一定能使之达到总体和谐的作用，最后应以总体混音效果为准。
 
