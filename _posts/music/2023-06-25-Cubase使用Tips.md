@@ -24,4 +24,7 @@ Bus轨在创建后，也需要手动将多个音轨Q Link到bus轨（注意是�
 ### [分离MIDI音符](https://www.youtube.com/watch?v=3KaDJv9HA30&list=PLlLbqXsa7xQUjx2XTcF6OA2L6fK1IlLva&index=9)
 MIDI-dissolve parts
 
+### 修正速度
+https://www.youtube.com/watch?v=c5AZ8fecXLw
+
 ### Expression Map
