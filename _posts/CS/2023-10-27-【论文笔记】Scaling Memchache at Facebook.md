@@ -8,8 +8,6 @@ tags:
 - scaling
 ---
 
-![](/assets/images/CS/memcache-paper.png)
-
 ## 阅读收获
 
 - 在扩容的每个阶段，有着不同的挑战。对于观察到的瓶颈进行工程上的渐进式优化，了解有什么通用方法，使系统更加稳定高效。
