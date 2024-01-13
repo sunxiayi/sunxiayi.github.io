@@ -16,6 +16,8 @@ VCA常用的情况：对于多个音轨（比如鼓组），想用同一个推�
 
 Bus轨在创建后，也需要手动将多个音轨Q Link到bus轨（注意是效果出现是在routing轨而不是send轨），bus推子的使用不会影响到子音轨的推子。常用于很多音轨的link，比如全部的audio，全部的音效，全部的乐器组等。
 
+Groups轨也是会将音轨routing到另外的group output，推子的使用不会影响到音轨的推子，也是因为这个原因，这时候混响的使用可能会导致pre-send的结果：https://www.youtube.com/watch?v=_n3clORtsRE&t=624s
+
 ### 音频对齐
 在对齐音频的时候，可以打开音频，利用[【S】工具](https://www.youtube.com/watch?v=ndEFbJ9eL-o&list=PLlLbqXsa7xQUjx2XTcF6OA2L6fK1IlLva&index=8)来对齐音轨到某一小节。
 
