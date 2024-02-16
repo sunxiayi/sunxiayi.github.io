@@ -1,5 +1,5 @@
 ---
-title: 【论文笔记】Kafka: a Distributed Messaging System for Log Processing
+title: 【论文笔记】Kafka a Distributed Messaging System for Log Processing
 date: 2024-01-12
 categories: CS
 tags:
