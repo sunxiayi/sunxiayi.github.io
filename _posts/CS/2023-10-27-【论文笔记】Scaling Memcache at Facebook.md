@@ -1,5 +1,5 @@
 ---
-title: 【论文笔记】Scaling Memchache at Facebook
+title: 【论文笔记】Scaling Memcache at Facebook
 date: 2023-10-27
 categories: CS
 tags:
