@@ -9,4 +9,4 @@ To put that aside, music and photography are life-long passion. They record and 
 
 Born and raised in China, have studied and worked in US since 2015. So this blog is bilingual.
 
-My [Instagram](https://www.instagram.com/zero_oiii/), [Photo collection](https://tuchong.com/303795/), [Youtube](https://www.youtube.com/channel/UC2Gq63a6RMW6d3hkZ1pxh1g) and [Bilibili](https://space.bilibili.com/318406430/) - if you are interested.
+My [Instagram](https://www.instagram.com/zero_oiii/) and [Bilibili](https://space.bilibili.com/318406430/) - if you are interested.
