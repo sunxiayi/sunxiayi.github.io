@@ -150,7 +150,6 @@ void reduce_low_limit(trx_id_t trx_no) {
 ### Write/read Scenarios
 
 - **Write Scenarios**:
-
   - [server start](https://github.com/facebook/mysql-5.6/blob/fb-mysql-8.0.32/sql/mysqld.cc#L9099)
   - [trx commit in slave with binlog=OFF](https://github.com/facebook/mysql-5.6/blob/fb-mysql-8.0.32/sql/binlog.cc#L2101)
   - [committing a statement or transaction, including XA, and also at XA prepare handling](https://github.com/facebook/mysql-5.6/blob/fb-mysql-8.0.32/sql/handler.cc#L1501)
@@ -159,20 +158,14 @@ void reduce_low_limit(trx_id_t trx_no) {
   - [flush_gtid](https://github.com/facebook/mysql-5.6/blob/fb-mysql-8.0.32/storage/innobase/clone/clone0repl.cc#L478). Called upon server start, reaching time threshold(100ms) or gtid threshold(1024)). This has an effect on InnoDB only
 
   **Read Scenarios:**
-
   - [server start](https://github.com/facebook/mysql-5.6/blob/fb-mysql-8.0.32/sql/mysqld.cc#L9023)
   - [clone recovery](https://github.com/facebook/mysql-5.6/blob/fb-mysql-8.0.32/storage/innobase/clone/clone0repl.cc#L527)
 
 ### References
 
 - https://blog.csdn.net/weixin_34238642/article/details/90065665
-
 - https://cloud.tencent.com/developer/article/2083743
-
 - http://mysql.taobao.org/monthly/2023/11/02/
-
 - https://blog.csdn.net/n88Lpo/article/details/127002441
-
 - https://zhuanlan.zhihu.com/p/141403577
-
 - https://cloud.tencent.com/developer/article/1396314
