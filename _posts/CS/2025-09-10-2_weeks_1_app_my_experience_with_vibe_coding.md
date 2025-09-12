@@ -1,6 +1,6 @@
 ---
 title: Two Weeks, One App - My Experience with Vibe Coding
-date: 2024-09-10
+date: 2025-09-10
 categories: CS
 tags:
 - AI

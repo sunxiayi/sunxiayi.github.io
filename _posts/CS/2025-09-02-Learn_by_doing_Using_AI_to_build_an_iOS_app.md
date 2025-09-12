@@ -1,6 +1,6 @@
 ---
 title: Learn by doing - Using AI to build an iOS app
-date: 2024-09-02
+date: 2025-09-02
 categories: CS
 tags:
 - AI
